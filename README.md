@@ -13,4 +13,4 @@ As the input to the network is 256 by 256 (instead of the original 1024 by 1024)
 We also make some change to the origin images.
 1.Change input image size to 320x320.
 2.Added transpose convolutions to allow greater flexibility in final predictions as per note above.
-3.Usu cross-validation using StratifiedKFold or KFold
+3.Usu cross-validation using StratifiedKFold or KFold.
